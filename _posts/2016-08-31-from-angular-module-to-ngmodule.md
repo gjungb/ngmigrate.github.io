@@ -119,7 +119,7 @@ This is a fairly fundamental technique in Angular 1.x being it is an organizatio
 
 ### Root Component
 
-The main organization mechanism is still the component within Angular 2 but `ngModule` was introduce to make organizing and connecting components together much easier. To parallel our Angular 1.x example, we will start by defining a top-level `AppComponent` that has a selector of `app`.
+The main organization mechanism is still the component within Angular 2 but `ngModule` was introduced to make organizing and connecting components together much easier. To parallel our Angular 1.x example, we will start by defining a top-level `AppComponent` that has a selector of `app`.
 
 {% highlight javascript %}
 // app.component.ts
